@@ -1,10 +1,10 @@
 name: Docs
 
 on:
-  push:
-    branches:
-      - 'develop'
-      - 'github-action'
+  # push:
+  #   branches:
+  #     - 'develop'
+  #     - 'github-action'
 
   workflow_dispatch:
 
